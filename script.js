@@ -1,3 +1,11 @@
+// Load the full lodash build.
+var _ = require('lodash');
+
+// Test "without" from lodash
+var array = [1, 2, 3, 4, 5];
+console.log('answer:', _.without(array, 3));
+
+
 // Create a variable called "css" to catch <h3> element
 var css = document.querySelector("h3");
 // Create a variable called "colors1" to catch the color from the 1st <input> element (on the left)
