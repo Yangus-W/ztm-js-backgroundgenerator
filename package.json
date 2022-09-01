@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Yangus-W/ztm-js-backgroundgenerator/issues"
   },
-  "homepage": "https://github.com/Yangus-W/ztm-js-backgroundgenerator#readme"
+  "homepage": "https://github.com/Yangus-W/ztm-js-backgroundgenerator#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
